@@ -8,8 +8,8 @@ Alice Conchin Gubernati, Fabio Freschi, Luca Giaccone, Tommaso Campi, Valerio De
 
 Other information:
 
-* The paper has been awarder with the best poster award
-* The paper is under revew for possible publication on *IEEE Transactions on Magnetics* (currently it is at step R1)
+* The paper has been awarded with the best poster award.
+* The paper is under revew for possible publication on *IEEE Transactions on Magnetics* (currently it is at step R1).
 
 ## Description of the magnetic field source
 
@@ -17,9 +17,9 @@ A 5-turn coil with inner radius of 70 mm and wire radius of 3 mm is located 200 
 
 ## Repository content
 
-* `Bmeasured_343_points.txt` : text file including the measurements at 343 points equally spced inside the instection volume. The file include a legend to understand the data meaning.
-* `Bmeasured_64_points.txt` : text file including the measurements at 64 points equally spaced inside the instection volume. The file include a legend to understand the data meaning. (These data are obtained by undersampling the original 343 measurements).
-* `plot_field.m` : for convenience of the MATLAB&reg; users, this script reads and visualises the data
+* `Bmeasured_343_points.txt` : text file including the measurements at 343 points equally spaced inside the inspection volume. The file includes also a legend to understand the data meaning.
+* `Bmeasured_64_points.txt` : text file including the measurements at 64 points equally spaced inside the inspection volume. The file includes also a legend to understand the data meaning. (These data are obtained by undersampling the original 343 measurements).
+* `plot_field.m` : for convenience of the MATLAB&reg; users, this script reads and visualises the data.
 * `coil_geometry.mat`: MATLAB&reg; file including the geometry of the coil. This file is used in the script `plot_field.m`. If you do not use this script, you do not need this file.
 
 ## Ouput of `plot_field.m`
