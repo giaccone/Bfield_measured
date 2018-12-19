@@ -25,19 +25,19 @@ A 5-turn coil with inner radius of 70 mm and wire radius of 3 mm is located 200 
 ## Ouput of `plot_field.m`
 
 <p align="center">
-<img src="./img/Bmod_343.png" width="200">
+<img src="./img/Bmod_343.png" width="350">
 &nbsp;&nbsp;&nbsp;
-<img src="./img/Bvect_343.png" width="200">
+<img src="./img/Bvect_343.png" width="350">
 </p>
 <center>
-<b>Fig. 1</b> **Case with 343 points**: magnitude of the field on three cut planes (left) representation of the vector field  (right)
+<b>Fig. 1</b> **Case with 343 points**: magnitude of the field on three cut planes (left/above) representation of the vector field  (right/bottom)
 </center>
 
 <p align="center">
-<img src="./img/Bmod_64.png" width="200">
+<img src="./img/Bmod_64.png" width="350">
 &nbsp;&nbsp;&nbsp;
-<img src="./img/Bvect_64.png" width="200">
+<img src="./img/Bvect_64.png" width="350">
 </p>
 <center>
-<b>Fig. 2</b> **Case with 64 points**: magnitude of the field on three cut planes (left) representation of the vector field  (right)
+<b>Fig. 2</b> **Case with 64 points**: magnitude of the field on three cut planes (left/above) representation of the vector field  (right/bottom)
 </center>
