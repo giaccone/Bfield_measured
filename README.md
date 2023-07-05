@@ -1,10 +1,9 @@
 # Bfield_measured
 This repository includes the magnetic flux density measured close to a simple coil source (description of the source in the next section).
 
-These data have been registered for research purposes. They are related to the following work presented at [CEFC 2018](http://www.cefc2018.org/):
+These data have been registered for research purposes. They are related to the following work presented at [CEFC 2018](http://www.cefc2018.org/) al later published on IEEE Transactions on Magnetics:
 
-Alice Conchin Gubernati, Fabio Freschi, Luca Giaccone, Tommaso Campi, Valerio De Santis and Ilkka Laakso, *"Comparison of numerical techniques for the evaluation of human exposure from measurement data
-"*
+A. Conchin Gubernati, F. Freschi, L. Giaccone, T. Campi, V. De Santis and I. Laakso, *"Comparison of Numerical Techniques for the Evaluation of Human Exposure From Measurement Data," in IEEE Transactions on Magnetics, vol. 55, no. 6, pp. 1-4, June 2019, Art no. 5000404, doi: [10.1109/TMAG.2019.2896720](10.1109/TMAG.2019.2896720).*
 
 Other information:
 
